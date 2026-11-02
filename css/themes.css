@@ -1,0 +1,5 @@
+/* Reelverse themes. Pick one with <html data-theme="..."> in index.html.
+   Options: midnight (default, no overrides needed), ember, ocean, emerald */
+[data-theme="ember"]{--bg:#120b0a;--bg2:#1f1411;--tx:#fff3e6;--mu:#c7ab98;--ac:#ffb020;--ink:#120b0a;--ov:#f3e1cf;--ld:#0a0605}
+[data-theme="ocean"]{--bg:#07131f;--bg2:#0e2133;--tx:#eaf6ff;--mu:#8fb0c9;--ac:#4cc9f0;--ink:#07131f;--ov:#d3e8f7;--ld:#040b12}
+[data-theme="emerald"]{--bg:#06140f;--bg2:#0d241b;--tx:#e9fff4;--mu:#8fbfa8;--ac:#3ddc97;--ink:#06140f;--ov:#d2f2e2;--ld:#030c08}

@@ -1,10 +1,7 @@
-/**
- * Curated picks ("My picks" tab).
- * Format per line:  Title | Year | LanguageCode | GenreCodes
- *   LanguageCode: m=Malayalam t=Tamil u=Telugu k=Kannada h=Hindi e=English o=Korean j=Japanese
- *   GenreCodes:   see GENRES in app.js (Y = Series)
- */
-const CURATED_RAW = `Kishkindha Kaandam|2024|m|T
+// "My picks" curated list. One title per line: Title|Year|Language|Genres
+// Language: m=Malayalam t=Tamil u=Telugu k=Kannada h=Hindi e=English o=Korean j=Japanese
+// Genres: T thriller, R romance, A action, S sci-fi, H horror, C comedy, D drama, K crime, F fantasy, N animation, Y series
+const raw=`Kishkindha Kaandam|2024|m|T
 Anjaam Pathiraa|2020|m|TK
 Iratta|2023|m|TK
 Anweshippin Kandethum|2024|m|TK
